@@ -1,0 +1,5 @@
+# Mapping from Matrix user ID to their system UID.
+users:
+  "@foo:example.com": 1000
+
+path: /var/run/maubot.manhole
